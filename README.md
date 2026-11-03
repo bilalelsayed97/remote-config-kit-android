@@ -24,7 +24,7 @@ and the dependency:
 
 ```kotlin
 dependencies {
-    implementation("com.github.bilalelsayed97.remote-config-kit-android:remote-config-kit:1.0.0")
+    implementation("com.github.bilalelsayed97:remote-config-kit-android:1.0.0")
 }
 ```
 
